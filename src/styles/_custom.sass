@@ -41,7 +41,7 @@
     background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
     padding-right: 130px
 
-@media (min-width: 768  px)
+@media (min-width: 768px)
   .banner-principal .tarjeta
     padding-right: 0
     overflow: hidden
@@ -87,3 +87,40 @@ figcaption
 
 .bg-color-terciario-t5
   background-color: $color-terciario-t5
+
+.acordion-mercado
+  background-color: #E4ECF1
+  color: #12263F
+  &--borde
+    background-color: lighten($color-acento-contenido, 50%)
+    color: #12263F
+    border: solid 4px $color-acento-contenido
+
+  .acordion__accion__btn--a
+    background-color: #01D2B5
+    color: #004E7C
+
+  &.acordion__activo
+    background-color: #E8E8E8
+
+    .acordion__accion__btn--a
+      background-color: #004E7C
+      color: $white
+
+
+.checklist
+  padding-left: 20px
+  width: fit-content
+
+  li
+    position: relative
+    padding: 2px 20px
+    padding-left: 0
+    // border-bottom: 1px dotted #AFAFAF
+
+    // &:last-child
+    //   border-bottom: none
+    &::before
+      content: url('../assets/curso/temas/check-icon.svg')
+      position: absolute
+      left: -20px
