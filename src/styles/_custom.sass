@@ -87,6 +87,37 @@ figcaption
 
 .bg-color-terciario-t5
   background-color: $color-terciario-t5
+.bg-color-secundario-s10
+  background-color: $color-secundario-s10
+
+.fullwidth-bg
+  position: relative
+  z-index: 0
+  // &--1::after
+  //   top: 50px
+  //   left: -60px
+  //   position: absolute
+  //   content: url('../assets/curso/temas/tema1/bg-1.png')
+
+  // &--2::after
+  //   top: -230px
+  //   left: -60px
+  //   position: absolute
+  //   content: url('../assets/curso/temas/tema1/bg-2.png')
+
+  &--3::after
+    top: 0
+    left: -60px
+    position: absolute
+    height: 440px
+    width: 1440px
+    background: #FFFFFF
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.53) 0%, rgba(238, 250, 243, 0.5) 20%, rgba(238, 250, 243, 0.5) 80%, rgba(255, 255, 255, 0.62) 100%)
+    content: ''
+
+.z-2
+  z-index: 2
+  position: relative
 
 .acordion-mercado
   background-color: #E4ECF1
@@ -124,3 +155,15 @@ figcaption
       content: url('../assets/curso/temas/check-icon.svg')
       position: absolute
       left: -20px
+
+@media (min-width: 1024px)
+  .avion-decorativo
+    position: relative
+    &::before
+      content: url('../assets/curso/temas/tema2/2.png')
+      position: absolute
+      top: -10px
+      left: -10px
+      background-repeat: no-repeat
+      background-position: center
+
