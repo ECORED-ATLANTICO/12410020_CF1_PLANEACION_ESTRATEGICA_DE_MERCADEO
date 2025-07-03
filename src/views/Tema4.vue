@@ -51,7 +51,7 @@
     //- table
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Tabla 1.
-      span Elementos internos de mercado
+      span Elementos internos del mercado
     .tabla-a.color-secundario.z-2.mb-4.mb-lg-5
       table
         caption <strong>Fuente:</strong> adaptado de Kotler, P., & Keller, K. L., 2016.
@@ -107,8 +107,8 @@
 
     //- table
     .titulo-sexto.color-acento-contenido.mb-4.z-2
-      h5 Tabla 1.
-      span Elementos internos de mercado
+      h5 Tabla 2.
+      span Elementos externos del mercado
     .tabla-a.color-secundario.z-2.mb-4.mb-lg-5
       table
         caption <strong>Fuente:</strong> adaptado de Porter, M. E., 2008.
