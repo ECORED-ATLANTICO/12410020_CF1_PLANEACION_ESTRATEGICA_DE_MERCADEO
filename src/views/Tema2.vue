@@ -35,13 +35,80 @@
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 2.2	Elementos
 
-    .row.justify-content-center.align-items-center.z-2
+    .row.justify-content-center.align-items-center.z-2.mb-4
       .col-10.col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/4.png', alt='Imagen decorativa')
       .col-lg-8
         p Para comprender cómo las empresas logran conectar con sus clientes y destacar en el mercado, es necesario analizar los componentes fundamentales de la mezcla de mercadeo. Estos conforman el eje central de cualquier estrategia comercial, ya que permiten diseñar ofertas atractivas y alineadas con las expectativas del consumidor.
         p Una estrategia comercial efectiva no solo depende de tener un buen producto, sino de cómo se integran y articulan todos los elementos que lo rodean. Las 4 P (producto, precio, plaza y promoción) constituyen el núcleo táctico de la mezcla de mercadeo. Analizar cada uno de estos componentes permite a las organizaciones construir propuestas de valor coherentes, adaptadas a las necesidades del mercado y capaces de generar una ventaja competitiva. Comprender cómo interactúan entre sí es clave para diseñar acciones que conecten con los consumidores de manera efectiva y sostenible.
+
+    AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-mercado")
+      div(titulo="Producto")
+        .row.align-items-center.justify-content-center
+          .col-lg-8
+            p Es el bien o servicio ofrecido por una empresa para satisfacer una necesidad del cliente. Abarca atributos como diseño, calidad, marca, empaque, funcionalidad y beneficios adicionales. Ejemplos:
+            ul.checklist
+              li Teléfonos inteligentes con funciones innovadoras.
+              li Servicios de suscripción como plataformas de <em>streaming</em>.
+              li Alimentos empacados con valor agregado (orgánicos, funcionales, entre otros).
+          .col-sm-10.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/5.png', alt='Imagen decorativa')
+
+      div(titulo="Precio")
+        .row.align-items-center.justify-content-center
+          .col-lg-8
+            p Representa el valor monetario que el consumidor paga por adquirir el producto o servicio. Es una herramienta estratégica que puede atraer clientes, posicionar la marca o comunicar valor. Ejemplos:
+            ul.checklist
+              li Descuentos por volumen en ventas mayoristas.
+              li Precios premium en relojes de lujo.
+              li Estrategias dinámicas según temporada o demanda.
+          .col-sm-10.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/6.png', alt='Imagen decorativa')
+
+      div(titulo="Plaza (Distribución)")
+        .row.align-items-center.justify-content-center
+          .col-lg-8
+            p Hace referencia a los canales y medios utilizados para hacer llegar el producto al consumidor. Incluye logística, cobertura geográfica, puntos de venta físicos o virtuales. Ejemplos:
+            ul.checklist
+              li Supermercados con presencia nacional.
+              li <em>E-commerce</em> con entregas a domicilio.
+              li Venta en <em>marketplaces</em> como Amazon o Mercado Libre.
+          .col-sm-10.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/7.png', alt='Imagen decorativa')
+
+      div(titulo="Promoción")
+        .row.align-items-center.justify-content-center
+          .col-lg-8
+            p Engloba las acciones de comunicación que buscan dar a conocer el producto, persuadir al cliente y fomentar la lealtad. Abarca publicidad, relaciones públicas, <em>marketing</em> digital y promociones. Ejemplos:
+            ul.checklist
+              li Publicidad en redes sociales.
+              li Campañas con <em>influencers</em>.
+              li Eventos de lanzamiento y descuentos por tiempo limitado.
+          .col-sm-10.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema2/8.png', alt='Imagen decorativa')
+
+    .row.justify-content-center.align-items-center.z-2.mt-4.mt-lg-5
+      .col-lg-8.bg-color-primario.p-4.rounded-4.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-7.col-sm-4.col-lg-5
+            figure
+              img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/temas/tema2/10.png', alt='Imagen decorativa')
+          .col-sm-8.col-lg-7
+            h5.text-white ¿Sabías qué?
+            p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+            TarjetaAudio.color-acento-contenido.mb-3(
+              texto="“Charlas que venden” Episodio: “SIM: conectando datos”"
+              :audio="require('../assets/componentes/audios/audio-ej.mp3')"
+            )
+      .col-10.col-sm-8.col-lg-4
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/temas/tema2/9.png', alt='Imagen decorativa')
+
 
 </template>
 
