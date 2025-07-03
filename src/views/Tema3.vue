@@ -25,7 +25,7 @@
         .cajon.color-terciario-t10.p-4.mb-3(data-aos="fade-left")
           p.mb-0 Este enfoque exige comprender cómo piensan, consumen y se comportan los compradores en otros países, lo que obliga a ajustar no solo el producto, sino también su precio, los canales de distribución y las formas de promoción. Las empresas deben identificar las preferencias, valores y hábitos de compra locales para lograr que sus productos conecten verdaderamente con el público extranjero.
         p En síntesis, hacer mercadeo internacional es diseñar estrategias comerciales que hablen el lenguaje del mercado global, reconociendo sus particularidades y creando propuestas de valor relevantes para cada entorno.
-      .col-sm-8.col-lg-4
+      .col-sm-8.col-md-6.col-lg-4
         figure
           img(data-aos="fade-left")(src="@/assets/curso/temas/tema3/2.png" alt="Imagen decorativa")
 
