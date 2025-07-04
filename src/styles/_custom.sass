@@ -106,6 +106,16 @@ figcaption
   position: relative
   z-index: 0
 
+  &--2::after
+    top: 100px
+    left: -60px
+    position: absolute
+    height: 1000px
+    width: 1440px
+    background: #FFFFFF
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.53) 0%, rgba(238, 250, 243, 0.5) 20%, rgba(238, 250, 243, 0.5) 80%, rgba(255, 255, 255, 0.62) 100%)
+    content: ''
+
   &--3::after
     top: 0
     left: -60px
@@ -217,7 +227,8 @@ table th, table td
   padding-left: 25px
   text-align: left
 
-
+.tabs-b__content-item
+  background-color: $color-adicional-1
 
 .accesibilidad
   z-index: 10
@@ -225,3 +236,47 @@ table th, table td
 .linea-tiempo-d__item--selected
   .linea-tiempo-d__item__content
     background-color: $color-secundario-s5
+
+.guia-slyder
+  background-color: #E4ECF1
+
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    border: none
+    transition-delay: 0.1s
+    opacity: 0.9
+
+    &.hide
+      opacity: 0
+      pointer-events: none
+
+  .slyder-a__bullets__item
+    background-color: #AFC2DD
+    border: 1px solid #AFC2DD
+    opacity: 0.3
+  .slyder-a__bullets__item--active
+    opacity: 1
+
+  &.more-elements
+    @media (max-width: 650px)
+      .slyder-a__bullets__item
+        width: 10px
+        height: 10px
+        margin: 0 3px
+
+.checklist
+  padding-left: 20px
+  width: fit-content
+
+  li
+    position: relative
+    padding: 0 15px
+    padding-left: 0
+
+    &::before
+      content: url('../assets/curso/temas/check-icon.svg')
+      position: absolute
+      left: -20px
+
+.bloque-texto-g__texto *
+  display: block
