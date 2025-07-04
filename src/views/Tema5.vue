@@ -45,37 +45,37 @@
     TabsB.color-acento-contenido
       .py-4.py-md-5(titulo="Registros internos" :icono="require('@/assets/curso/temas/tema5/4.svg')")
         .row.justify-content-center.align-items-center.py-5
-          .col-md-6.mb-4.mb-md-0.px-4.px-md-0
+          .col-lg-6.mb-4.mb-lg-0.px-4.px-lg-0
             h5 Registros internos
             p Organizan la información generada por la propia empresa, como datos de ventas, inventarios, clientes y costos operativos. Ejemplo: una empresa de alimentos identifica, mediante sus registros de venta, que los productos saludables se venden más en zonas urbanas durante enero. Esta información permite planificar campañas estacionales dirigidas a ese segmento.
-          .col-8.col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema5/8.png', alt='Imagen decorativa')
 
       .py-4.py-md-5(titulo="Inteligencia de mercadeo" :icono="require('@/assets/curso/temas/tema5/5.svg')")
         .row.justify-content-center.align-items-center.py-5
-          .col-md-6.mb-4.mb-md-0.px-4.px-md-0
+          .col-lg-6.mb-4.mb-lg-0.px-4.px-lg-0
             h5 Inteligencia de mercadeo
             p Recoge datos informales del entorno, observaciones del equipo comercial, retroalimentación de clientes y actividades de la competencia. Ejemplo: un vendedor nota que una marca extranjera ha bajado precios en supermercados locales. La empresa ajusta su estrategia para no perder participación en ese canal.
-          .col-8.col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema5/9.png', alt='Imagen decorativa')
 
       .py-4.py-md-5(titulo="Investigación de mercados" :icono="require('@/assets/curso/temas/tema5/6.svg')")
         .row.justify-content-center.align-items-center.py-5
-          .col-md-6.mb-4.mb-md-0.px-4.px-md-0
+          .col-lg-6.mb-4.mb-lg-0.px-4.px-lg-0
             h5 Investigación de mercados
             p Realiza estudios sistemáticos sobre el consumidor, la competencia o nuevos mercados, utilizando encuestas, focus groups o entrevistas. Ejemplo: una pyme colombiana interesada en exportar café realiza un estudio en Canadá y descubre que los consumidores valoran empaques biodegradables. Con esa información, rediseña el empaque antes de ingresar al mercado.
-          .col-8.col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema5/10.png', alt='Imagen decorativa')
 
       .py-4.py-md-5(titulo="Soporte analítico" :icono="require('@/assets/curso/temas/tema5/7.svg')")
         .row.justify-content-center.align-items-center.py-5
-          .col-md-6.mb-4.mb-md-0.px-4.px-md-0
+          .col-lg-6.mb-4.mb-lg-0.px-4.px-lg-0
             h5 Soporte analítico
             p Utiliza modelos estadísticos y herramientas tecnológicas para transformar datos en proyecciones, indicadores y decisiones estratégicas. Ejemplo: una empresa textil analiza tendencias de consumo y detecta un crecimiento proyectado del 15 % en la demanda de ropa deportiva femenina. Decide enfocar su próxima colección en ese segmento.
-          .col-8.col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema5/11.png', alt='Imagen decorativa')
 

@@ -8,7 +8,7 @@
       h1 Análisis situacional
 
     .row.bg-color-secundario-s10.align-items-center.justify-content-center.p-4.p-md-2.p-xl-0
-      .col-10.col-sm-8.col-lg-3
+      .col-10.col-sm-6.col-lg-3
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema6/1.png" alt="Imagen decorativa")
       .col-lg-9
@@ -29,7 +29,7 @@
               img.mb-4.mb-lg-0.w-6.mx-auto(data-aos="fade-up")(src="@/assets/curso/temas/tema6/3.svg" alt="Imagen decorativa")
           .col-lg-10
             p.mb-0 Además de su función diagnóstica, el análisis situacional contribuye a reducir la incertidumbre en la toma de decisiones, al ofrecer una visión comprensiva de los recursos disponibles, las limitaciones, las oportunidades emergentes y los posibles riesgos. Esta herramienta es ampliamente utilizada en contextos empresariales, institucionales y sociales, ya que permite anticipar tendencias y definir ventajas competitivas.
-      .col-lg-5
+      .col-sm-8.col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema6/2.png" alt="Imagen decorativa")
 
