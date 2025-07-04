@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/12410020_CF1_PLANEACION_ESTRATEGICA_DE_MERCADEO/](https://ecored-atlantico.github.io/12410020_CF1_PLANEACION_ESTRATEGICA_DE_MERCADEO/#/)
 
 #
 
