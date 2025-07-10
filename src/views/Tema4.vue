@@ -10,7 +10,7 @@
     .row.bg-color-adicional-1.align-items-center.justify-content-center.p-4.p-md-2.p-xl-0
       .col-8.col-sm-6.col-lg-3
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema4/1.svg" alt="Imagen decorativa")
+          img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema4/1.png" alt="Imagen decorativa")
       .col-lg-9
         p.mb-4.mb-lg-0 Toda empresa opera dentro de un sistema dinámico que va más allá de sus fronteras internas. Este sistema, conocido como entorno empresarial, influye constantemente en las decisiones que toma una organización. Desde los recursos que controla hasta los factores externos que no puede modificar, entender este entorno es esencial para formular estrategias acertadas, responder con agilidad a los cambios del mercado y asegurar la sostenibilidad en un escenario competitivo global. A continuación, se exploran los elementos que lo componen y su impacto en la gestión empresarial.
 
@@ -99,7 +99,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-left")(src='@/assets/curso/temas/tema4/5.png', alt='Imagen decorativa')
       .col-lg-8
-        .bloque-texto-b.color-terciario-t5.p-4
+        .bloque-texto-b.color-terciario-t5.color-terciario-t5--blue.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 <strong>Variables externas del mercado:</strong> son variables o factores que afectan la competitividad de las empresas y no pueden ser controlados directamente. Porter (2008) destaca que una correcta evaluación de estos factores permite formular estrategias más resilientes.

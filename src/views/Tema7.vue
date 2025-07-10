@@ -171,7 +171,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-xl-4.d-none.d-xl-block
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/temas/tema7/5.png" alt="Imagen decorativa")
+          img.mb-4.mb-lg-0(data-aos="fade-down")(src="@/assets/curso/temas/tema7/5.png" alt="Imagen decorativa")
       .col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4.z-2
           h5 Tabla 6.

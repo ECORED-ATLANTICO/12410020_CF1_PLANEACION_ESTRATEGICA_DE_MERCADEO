@@ -41,7 +41,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-8.col-sm-6.col-lg-3
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema1/3.png', alt='Imagen decorativa')
+          img.mb-4.mb-lg-0(data-aos="fade-down")(src='@/assets/curso/temas/tema1/3.png', alt='Imagen decorativa')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordion-mercado")
           div(titulo="Mercado de consumidores")

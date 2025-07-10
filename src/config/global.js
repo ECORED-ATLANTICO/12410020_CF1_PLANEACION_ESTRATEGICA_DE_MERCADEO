@@ -3,7 +3,7 @@ export default {
     Name: 'Análisis estratégico del mercado internacional',
     Description:
       'Este componente formativo permite comprender el funcionamiento de los mercados globales, identificando oportunidades y desafíos para la toma de decisiones comerciales. Desarrolla habilidades para analizar el entorno, interpretar información clave y aplicar estrategias efectivas que mejoren la competitividad de productos o servicios en escenarios internacionales, fortaleciendo así la visión global y la capacidad de adaptación en contextos empresariales dinámicos.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

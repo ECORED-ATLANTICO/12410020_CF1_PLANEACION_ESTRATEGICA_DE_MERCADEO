@@ -54,14 +54,14 @@
         .cajon.color-terciario-t10.p-4.mb-3(data-aos="fade-left")
           p.mb-0 Además de comprender los objetivos generales del mercadeo internacional, es fundamental profundizar en su aplicación práctica. A continuación, se amplían los propósitos estratégicos, presentando descripciones claras y ejemplos representativos que permiten evidenciar cómo las empresas los incorporan en sus procesos de internacionalización. Este análisis facilita la conexión entre la teoría y la realidad empresarial, fortaleciendo la toma de decisiones en contextos globales.
 
-    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4.p-4
+    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4.p-lg-4
       .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
           img(src='@/assets/curso/temas/tema3/4.png', alt='Imagen decorativa')
 
       .col-sm-8.col-md-10.col-xl-8.mb-3.mb-lg-0
         SlyderF(columnas="col-lg-6")
-          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+          .tarjeta.p-3.card-decoration.rounded-4.mx-2.my-3
             .row.justify-content-center.mb-3
               .col-5
                 img.mb-2(src='@/assets/curso/temas/tema3/5.svg' alt='Icon decarativo')
