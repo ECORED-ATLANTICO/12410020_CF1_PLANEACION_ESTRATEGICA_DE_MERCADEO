@@ -72,12 +72,12 @@
                 img.mb-4.mb-lg-0.w-8.mx-auto(data-aos="fade-up")(src="@/assets/curso/temas/tema7/7.svg" alt="Imagen decorativa")
             .col-lg-10
               p.mb-0 A continuación, se presentan diversas matrices aplicadas a casos empresariales reales o simulados, con el fin de ilustrar de manera práctica su utilidad y facilitar la comprensión de su aplicación en procesos de toma de decisiones estratégicas.
-          .titulo-sexto.color-acento-contenido.mb-4.z-2
+          .titulo-sexto.color-acento-botones.mb-4.z-2
             h5 Tabla 3.
             span DOFA Alpina y su expansión de lácteos en EE. UU.
           .tabla-a.color-secundario.z-2
             table
-              caption <strong>Fuente:</strong> adaptado de Kotler & Keller, 2016 y análisis sectorial.
+              caption <strong>Nota.</strong> Adaptado de Kotler & Keller, 2016 y análisis sectorial.
               thead
                 tr(style="background-color: #004E7C; color: #FFF")
                   th Fortalezas
@@ -107,12 +107,12 @@
 
     .row.align-items-center.justify-content-center.z-2.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
-        .titulo-sexto.color-acento-contenido.mb-4.z-2
+        .titulo-sexto.color-acento-botones.mb-4.z-2
           h5 Tabla 4.
           span PESTEL Postobón y su internacionalización en América Latina. 
         .tabla-a.color-secundario.z-2
           table
-            caption <strong>Fuente:</strong> adaptado de David, 2020 y contexto regional latinoamericano.
+            caption <strong>Nota.</strong> Adaptado de David, 2020 y contexto regional latinoamericano.
             thead
               tr(style="background-color: #004E7C; color: #FFF")
                 th Factor
@@ -139,12 +139,12 @@
 
     .row.align-items-center.justify-content-center.z-2.mb-4.mb-lg-5
       .col-xl-10
-        .titulo-sexto.color-acento-contenido.mb-4.z-2
+        .titulo-sexto.color-acento-botones.mb-4.z-2
           h5 Tabla 5.
           span <em>Benchmarking</em> Totto y su expansión en el mercado europeo. 
         .tabla-a.color-secundario.z-2
           table
-            caption <strong>Fuente:</strong> adaptado de sitios oficiales y análisis comparativos sectoriales.
+            caption <strong>Nota.</strong> Adaptado de sitios oficiales y análisis comparativos sectoriales.
             thead
               tr(style="background-color: #004E7C; color: #FFF")
                 th Elemento clave
@@ -173,12 +173,12 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down")(src="@/assets/curso/temas/tema7/5.png" alt="Imagen decorativa")
       .col-xl-8
-        .titulo-sexto.color-acento-contenido.mb-4.z-2
+        .titulo-sexto.color-acento-botones.mb-4.z-2
           h5 Tabla 6.
           span Porter Juan Valdez y la expansión del café colombiano.
         .tabla-a.color-secundario.z-2
           table
-            caption <strong>Fuente:</strong>adaptado de Porter, 1998 y análisis estratégico del sector cafetero colombiano.
+            caption <strong>Nota.</strong> Adaptado de Porter, 1998 y análisis estratégico del sector cafetero colombiano.
             thead
               tr(style="background-color: #004E7C; color: #FFF")
                 th Fuerza
@@ -186,10 +186,10 @@
             tbody
               tr(style="background-color: #E6FBF8;")
                 td Rivalidad entre competidores
-                td(colspan="3") <strong>Alta.</strong> Compite con marcas globales como <em>Starbucks</em> y cafeterías locales.
+                td(colspan="3") <strong>Alta.</strong> Compite con marcas globales como Starbucks y cafeterías locales.
               tr
                 td Amenaza de nuevos entrantes
-                td(colspan="3") <strong>Moderada.</strong> Ingreso al mercado premium requiere fuerte inversión en marca.
+                td(colspan="3") <strong>Moderada.</strong> Ingreso al mercado <em>premium</em> requiere fuerte inversión en marca.
               tr(style="background-color: #E6FBF8;")
                 td Poder de proveedores
                 td(colspan="3") <strong>Bajo.</strong> Juan Valdez tiene control directo sobre su cadena de suministro cafetera.

@@ -74,14 +74,14 @@
       .col-lg-11
         p.mb-0 La realización de un análisis situacional requiere de un enfoque metodológico claro, que permita convertir la información recolectada en conocimiento estratégico. A continuación, se describen las etapas más comunes en este proceso:
 
-    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4.p-4
+    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4
       .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
           img(src='@/assets/curso/temas/tema6/7.png', alt='Imagen decorativa')
 
       .col-sm-8.col-md-10.col-xl-8.mb-3.mb-lg-0
         SlyderF(columnas="col-lg-6")
-          .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
+          .tarjeta.p-3.card-decoration.rounded-4.mx-2.my-3
             .row.justify-content-center.mb-3
               .col-5
                 img.mb-2(src='@/assets/curso/temas/tema6/8.svg' alt='Icon decarativo')

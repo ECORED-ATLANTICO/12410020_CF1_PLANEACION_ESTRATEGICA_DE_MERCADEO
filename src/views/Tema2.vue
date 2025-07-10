@@ -62,7 +62,7 @@
             p Representa el valor monetario que el consumidor paga por adquirir el producto o servicio. Es una herramienta estratégica que puede atraer clientes, posicionar la marca o comunicar valor. Ejemplos:
             ul.checklist
               li Descuentos por volumen en ventas mayoristas.
-              li Precios premium en relojes de lujo.
+              li Precios <em>premium</em> en relojes de lujo.
               li Estrategias dinámicas según temporada o demanda.
           .col-sm-10.col-lg-4
             figure

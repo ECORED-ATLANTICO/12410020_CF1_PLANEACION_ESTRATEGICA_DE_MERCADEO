@@ -65,7 +65,7 @@
         .row.justify-content-center.align-items-center.py-5
           .col-lg-6.mb-4.mb-lg-0.px-4.px-lg-0
             h5 Investigación de mercados
-            p Realiza estudios sistemáticos sobre el consumidor, la competencia o nuevos mercados, utilizando encuestas, focus groups o entrevistas. Ejemplo: una pyme colombiana interesada en exportar café realiza un estudio en Canadá y descubre que los consumidores valoran empaques biodegradables. Con esa información, rediseña el empaque antes de ingresar al mercado.
+            p Realiza estudios sistemáticos sobre el consumidor, la competencia o nuevos mercados, utilizando encuestas, <em>focus groups</em> o entrevistas. Ejemplo: una pyme colombiana interesada en exportar café realiza un estudio en Canadá y descubre que los consumidores valoran empaques biodegradables. Con esa información, rediseña el empaque antes de ingresar al mercado.
           .col-10.col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema5/10.png', alt='Imagen decorativa')
@@ -132,7 +132,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
             p.mb-4.mb-xl-5 <strong>Paso 2.</strong> Inteligencia de <em>marketing</em>
-            p.mb-4.mb-xl-5 Implica la recolección de datos informales del entorno competitivo, a través de observación directa, interacción con clientes o revisión de fuentes externas. Sirve para detectar oportunidades o amenazas. Ejemplo: se identifican precios por kilo del aguacate Hass en EE.UU. y los requisitos de certificación exigidos por el mercado europeo, ajustando la estrategia comercial según estos hallazgos.
+            p.mb-4.mb-xl-5 Implica la recolección de datos informales del entorno competitivo, a través de observación directa, interacción con clientes o revisión de fuentes externas. Sirve para detectar oportunidades o amenazas. Ejemplo: se identifican precios por kilo del aguacate <em>Hass</em> en EE. UU. y los requisitos de certificación exigidos por el mercado europeo, ajustando la estrategia comercial según estos hallazgos.
             p <strong>Herramientas / Fuentes:</strong> ProColombia, Trademap, USDA, ferias comerciales, observación directa de clientes.
           .col-10.col-sm-8.col-lg-6.col-xl-5
             figure
@@ -170,7 +170,7 @@
         div
           p Sugerencias de uso:
           ul.checklist
-            li Usar esta guía como checklist en reuniones estratégicas.
+            li Usar esta guía como <em>checklist</em> en reuniones estratégicas.
             li Actualizar la información del SIM de forma mensual o por campaña de exportación.
             li Asegurar que todos los equipos (comercial, producción, logística, calidad) alimenten el sistema.
             li Complementar con alertas sobre cambios en normativas internacionales (fitosanitarias, arancelarias, entre otras).
@@ -182,7 +182,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.p-4.px-5.bg-color-terciario-t10.rounded-4.mb-4.mb-lg-0
-        p.my-2 A continuación, se presenta la experiencia de Agroverde Export organizada en secciones desplegables, que permiten conocer de forma detallada cómo esta empresa ha estructurado su Sistema de Información de Mercadeo (SIM). Cada apartado describe los elementos clave del sistema, su aplicación en el contexto exportador del aguacate Hass y los resultados alcanzados, evidenciando el impacto positivo de una gestión estratégica de la información en el proceso de internacionalización. 
+        p.my-2 A continuación, se presenta la experiencia de Agroverde Export organizada en secciones desplegables, que permiten conocer de forma detallada cómo esta empresa ha estructurado su Sistema de Información de Mercadeo (SIM). Cada apartado describe los elementos clave del sistema, su aplicación en el contexto exportador del aguacate <em>Hass</em> y los resultados alcanzados, evidenciando el impacto positivo de una gestión estratégica de la información en el proceso de internacionalización. 
       .col-sm-8.col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema5/20.png', alt='Imagen decorativa')
@@ -194,7 +194,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-7.mb-4.mb-lg-0
               h3 1. Introducción al caso
-              p Agroverde Export, empresa agroindustrial ubicada en Antioquia, ha estructurado un Sistema de Información de Mercadeo (SIM) para apoyar su proceso de exportación de aguacate Hass a mercados como Estados Unidos y Europa. Gracias a esta herramienta, la empresa toma decisiones basadas en datos reales, mejorando su competitividad internacional.
+              p Agroverde Export, empresa agroindustrial ubicada en Antioquia, ha estructurado un Sistema de Información de Mercadeo (SIM) para apoyar su proceso de exportación de aguacate <em>Hass</em> a mercados como Estados Unidos y Europa. Gracias a esta herramienta, la empresa toma decisiones basadas en datos reales, mejorando su competitividad internacional.
             .col-10.col-md-7.col-lg-5
               figur5
                 img(src='@/assets/curso/temas/tema5/21.png', alt='Imagen decorativa')
@@ -206,7 +206,7 @@
             .col-lg-7.text-start
               h3 2. Datos generales
               p.mb-1 <strong>Sector:</strong> agroindustrial. 
-              p.mb-1 <strong>Producto:</strong> aguacate Hass. 
+              p.mb-1 <strong>Producto:</strong> aguacate <em>Hass</em>. 
               p.mb-1 <strong>Ubicación:</strong> Antioquia, Colombia. 
               p.mb-1 <strong>Objetivo:</strong> exportar a Estados Unidos y Europa.
 
@@ -215,8 +215,8 @@
               h3 3. Estructura del SIM en Agroverde Export
               p.mb-1 <strong>a.</strong> Registros internos: incluyen datos de producción, ventas, costos logísticos y desempeño por temporada. 
               p.mb-1 <strong>b.</strong> Inteligencia de marketing: análisis de fuentes como ProColombia, USDA, ferias internacionales y contacto con distribuidores. 
-              p.mb-1 <strong>c.</strong> Investigación de mercados: estudios de percepción en EE. UU. y Europa mediante encuestas y focus groups. 
-              p.mb-1 <strong>d.</strong> Soporte a decisiones: dashboards en Power BI para monitorear precios, tendencias y demanda por región. e. Análisis del entorno: seguimiento de normas fitosanitarias, tipo de cambio, tratados comerciales y barreras arancelarias.
+              p.mb-1 <strong>c.</strong> Investigación de mercados: estudios de percepción en EE. UU. y Europa mediante encuestas y <em>focus groups</em>. 
+              p.mb-1 <strong>d.</strong> Soporte a decisiones: <em>dashboards</em> en Power BI para monitorear precios, tendencias y demanda por región. e. Análisis del entorno: seguimiento de normas fitosanitarias, tipo de cambio, tratados comerciales y barreras arancelarias.
             .col-10.col-md-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema5/23.png', alt='Imagen decorativa')
@@ -232,10 +232,8 @@
                 li Certificaciones: GLOBALG.A.P. y USDA Organic.
                 li Diseño de empaque ecológico adaptado a preferencias internacionales.
                 li Optimización logística desde Urabá a puertos estratégicos.
-                li Posicionamiento como “aguacate premium colombiano”, diferenciándose de México y Perú.
+                li Posicionamiento como “aguacate <em>premium</em> colombiano”, diferenciándose de México y Perú.
           
-
-
     .row.justify-content-center.align-items-center.z-2.mt-4.mt-lg-5.z-2
       .col-lg-7.bg-color-primario.p-4.py-5.rounded-4.mb-4.mb-lg-0
         .row.align-items-center.justify-content-center

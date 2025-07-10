@@ -54,7 +54,7 @@
         .cajon.color-terciario-t10.p-4.mb-3(data-aos="fade-left")
           p.mb-0 Además de comprender los objetivos generales del mercadeo internacional, es fundamental profundizar en su aplicación práctica. A continuación, se amplían los propósitos estratégicos, presentando descripciones claras y ejemplos representativos que permiten evidenciar cómo las empresas los incorporan en sus procesos de internacionalización. Este análisis facilita la conexión entre la teoría y la realidad empresarial, fortaleciendo la toma de decisiones en contextos globales.
 
-    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4.p-lg-4
+    .row.justify-content-center.align-items-center.factores-slider.z-2.rounded-4
       .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
           img(src='@/assets/curso/temas/tema3/4.png', alt='Imagen decorativa')
@@ -112,7 +112,7 @@
       div(titulo="Expansión del alcance comercial")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p Permite a las empresas llegar a nuevos mercados, aumentando su base de clientes y la demanda potencial de sus productos o servicios. (<em>Kotler & Keller</em>, 2016).
+            p Permite a las empresas llegar a nuevos mercados, aumentando su base de clientes y la demanda potencial de sus productos o servicios. (Kotler & Keller, 2016).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/12.png', alt='Imagen decorativa')
@@ -120,7 +120,7 @@
       div(titulo="Diversificación del riesgo empresarial")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p Al operar en varios países, se reduce la dependencia de un solo mercado y se amortiguan los efectos de crisis económicas o políticas locales. (<em>Lamb, Hair & McDaniel</em>, 2012).
+            p Al operar en varios países, se reduce la dependencia de un solo mercado y se amortiguan los efectos de crisis económicas o políticas locales. (Lamb, Hair & McDaniel, 2012).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/13.png', alt='Imagen decorativa')
@@ -128,7 +128,7 @@
       div(titulo="Incremento de ingresos")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p El acceso a nuevos consumidores y la posibilidad de adaptarse a distintos niveles de poder adquisitivo generan mayores ventas y rentabilidad. (<em>Kotler & Keller</em>, 2016).
+            p El acceso a nuevos consumidores y la posibilidad de adaptarse a distintos niveles de poder adquisitivo generan mayores ventas y rentabilidad. (Kotler & Keller, 2016).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Imagen decorativa')
@@ -136,7 +136,7 @@
       div(titulo="Aprovechamiento de oportunidades enmercados emergentes")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p Las empresas pueden adelantarse a la competencia aprovechando el crecimiento acelerado de ciertas regiones, posicionando su marca desde etapas tempranas. (<em>Lamb, Hair & McDaniel</em>, 2012).
+            p Las empresas pueden adelantarse a la competencia aprovechando el crecimiento acelerado de ciertas regiones, posicionando su marca desde etapas tempranas. (Lamb, Hair & McDaniel, 2012).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/15.png', alt='Imagen decorativa')
@@ -144,7 +144,7 @@
       div(titulo="Fortalecimiento de la marca a nivel global")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p La presencia internacional mejora el prestigio, la percepción de valor y el reconocimiento global de una marca, lo cual impulsa la lealtad del cliente. (<em>Kotler & Keller</em>, 2016).
+            p La presencia internacional mejora el prestigio, la percepción de valor y el reconocimiento global de una marca, lo cual impulsa la lealtad del cliente. (Kotler & Keller, 2016).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/16.png', alt='Imagen decorativa')
@@ -152,7 +152,7 @@
       div(titulo="Economías de escala")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p Al producir mayores volúmenes para varios mercados, se reducen los costos unitarios, aumentando la eficiencia y competitividad. (<em>Kotler & Keller</em>, 2016).
+            p Al producir mayores volúmenes para varios mercados, se reducen los costos unitarios, aumentando la eficiencia y competitividad. (Kotler & Keller, 2016).
           .col-sm-10.col-lg-3
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/17.png', alt='Imagen decorativa')
@@ -160,10 +160,10 @@
       div(titulo="Innovación y adaptación estratégica")
         .row.align-items-center.justify-content-center
           .col-lg-8
-            p Las empresas deben adaptar sus productos, empaques y estrategias al contexto local, lo cual estimula procesos de innovación y mejora continua. (<em>Lamb, Hair & McDaniel</em>, 2012).
+            p Las empresas deben adaptar sus productos, empaques y estrategias al contexto local, lo cual estimula procesos de innovación y mejora continua. (Lamb, Hair & McDaniel, 2012).
           .col-sm-10.col-lg-3
             figure
-              img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/18.png', alt='Imagen decorativa')
+              img(data-aos="fade-down")(src='@/assets/curso/temas/tema3/18.png', alt='Imagen decorativa')
 
 </template>
 

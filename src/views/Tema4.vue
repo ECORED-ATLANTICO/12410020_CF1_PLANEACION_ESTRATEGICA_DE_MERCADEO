@@ -49,12 +49,12 @@
         p.mb-0 <strong>Variables internas del mercado:</strong> son factores controlables por la empresa que afectan su desempeño en el mercado. Kotler (2016) enfatiza que gestionar estos elementos de manera eficiente puede generar ventajas competitivas sostenibles.
 
     //- table
-    .titulo-sexto.color-acento-contenido.mb-4.z-2
+    .titulo-sexto.color-acento-botones.mb-4.z-2
       h5 Tabla 1.
       span Elementos internos del mercado
     .tabla-a.color-secundario.z-2.mb-4.mb-lg-5
       table
-        caption <strong>Fuente:</strong> adaptado de Kotler, P., & Keller, K. L., 2016.
+        caption <strong>Nota.</strong> Adaptado de Kotler, P., & Keller, K. L., 2016.
         thead
           tr(style="background-color: #004E7C; color: #FFF")
             th Tipo de elemento
@@ -106,12 +106,12 @@
             i.fas.fa-quote-right 
 
     //- table
-    .titulo-sexto.color-acento-contenido.mb-4.z-2
+    .titulo-sexto.color-acento-botones.mb-4.z-2
       h5 Tabla 2.
       span Elementos externos del mercado
     .tabla-a.color-secundario.z-2.mb-4.mb-lg-5
       table
-        caption <strong>Fuente:</strong> adaptado de Porter, M. E., 2008.
+        caption <strong>Nota.</strong> Adaptado de Porter, M. E., 2008.
         thead
           tr(style="background-color: #004E7C; color: #FFF")
             th Tipo de elemento
