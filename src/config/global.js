@@ -226,7 +226,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/analisis-del-mercado-internacional.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -328,7 +328,7 @@ export default {
       significado: 'Conjunto de empresas que producen bienes similares.',
     },
     {
-      termino: 'Marketing',
+      termino: '<em>Marketing</em>',
       significado:
         'Conjunto de acciones para satisfacer necesidades y generar valor.',
     },

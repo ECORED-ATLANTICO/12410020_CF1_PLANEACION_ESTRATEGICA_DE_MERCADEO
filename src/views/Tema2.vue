@@ -100,7 +100,7 @@
               img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/temas/tema2/10.png', alt='Imagen decorativa')
           .col-sm-8.col-lg-7
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+            p.text-white Lo invitamos a escuchar el siguiente Podcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="“Charlas que venden” Episodio: “SIM: conectando datos”"
               :audio="require('../assets/componentes/audios/audio-ej.mp3')"

@@ -73,7 +73,7 @@
               .col-5
                 img.mb-2(src='@/assets/curso/temas/tema3/7.svg' alt='Icon decarativo')
             h5.bg-color-primario.text-white.text-center.p-3.rounded-3 Diversificar las fuentes de ingreso
-            p Reducir la dependencia de un único mercado, generando ingresos desde diversas regiones. Ejemplo: una empresa de software comercializa licencias en Europa y América Latina para mantener estabilidad financiera.
+            p Reducir la dependencia de un único mercado, generando ingresos desde diversas regiones. Ejemplo: una empresa de <em>software</em> comercializa licencias en Europa y América Latina para mantener estabilidad financiera.
 
           .tarjeta.p-4.card-decoration.rounded-4.mx-2.my-3
             .row.justify-content-center.mb-3
@@ -133,7 +133,7 @@
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Imagen decorativa')
 
-      div(titulo="Aprovechamiento de oportunidades enmercados emergentes")
+      div(titulo="Aprovechamiento de oportunidades en mercados emergentes")
         .row.align-items-center.justify-content-center
           .col-lg-8
             p Las empresas pueden adelantarse a la competencia aprovechando el crecimiento acelerado de ciertas regiones, posicionando su marca desde etapas tempranas. (Lamb, Hair & McDaniel, 2012).

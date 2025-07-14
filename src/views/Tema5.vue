@@ -214,7 +214,7 @@
             .col-lg-7.mb-4.mb-lg-0
               h3 3. Estructura del SIM en Agroverde Export
               p.mb-1 <strong>a.</strong> Registros internos: incluyen datos de producción, ventas, costos logísticos y desempeño por temporada. 
-              p.mb-1 <strong>b.</strong> Inteligencia de marketing: análisis de fuentes como ProColombia, USDA, ferias internacionales y contacto con distribuidores. 
+              p.mb-1 <strong>b.</strong> Inteligencia de <em>marketing</em>: análisis de fuentes como ProColombia, USDA, ferias internacionales y contacto con distribuidores. 
               p.mb-1 <strong>c.</strong> Investigación de mercados: estudios de percepción en EE. UU. y Europa mediante encuestas y <em>focus groups</em>. 
               p.mb-1 <strong>d.</strong> Soporte a decisiones: <em>dashboards</em> en Power BI para monitorear precios, tendencias y demanda por región. e. Análisis del entorno: seguimiento de normas fitosanitarias, tipo de cambio, tratados comerciales y barreras arancelarias.
             .col-10.col-md-7.col-lg-5
@@ -242,7 +242,7 @@
               img.mb-4.mb-lg-0(data-aos="fade-right")(src='@/assets/curso/temas/tema2/10.png', alt='Imagen decorativa')
           .col-sm-8.col-lg-7
             h5.text-white ¿Sabías qué?
-            p.text-white Lo invitamos a escuchar el siguiente Pódcast:
+            p.text-white Lo invitamos a escuchar el siguiente Podcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="“Charlas que venden” Episodio: “SIM: conectando datos”"
               :audio="require('../assets/componentes/audios/audio-ej.mp3')"
