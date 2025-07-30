@@ -244,8 +244,8 @@
             h5.text-white ¿Sabías qué?
             p.text-white Lo invitamos a escuchar el siguiente Podcast:
             TarjetaAudio.color-acento-contenido.mb-3(
-              texto="“Charlas que venden” Episodio: “SIM: conectando datos”"
-              :audio="require('../assets/componentes/audios/audio-ej.mp3')"
+              texto="“Charlas que venden” Episodio: “SIM”"
+              :audio="require('../assets/curso/podcasts/2.mp3')"
             )
       .col-10.col-sm-8.col-lg-5
         figure
