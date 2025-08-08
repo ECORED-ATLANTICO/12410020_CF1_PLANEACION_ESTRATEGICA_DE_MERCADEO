@@ -117,7 +117,7 @@
       h3 5.4	Guía implementación SIM
 
     .cajon.color-terciario-t10.p-4.mb-4.mb-lg-5(data-aos="fade-left")
-      p.mb-0 Esta guía práctica presenta los componentes clave de un Sistema de Información de Mercadeo (SIM) enfocado en exportaciones. Su objetivo es ayudar a las empresas a organizar y usar la información estratégica necesaria para tomar mejores decisiones en mercados internacionales. Incluye descripciones, herramientas y ejemplos aplicados al caso del aguacate <em>Hass</em>.
+      p.mb-0 Esta guía práctica presenta los componentes clave de un Sistema de Información de Mercadeo (SIM) enfocado en exportaciones. Su objetivo es ayudar a las empresas a organizar y usar la información estratégica necesaria para tomar mejores decisiones en mercados internacionales. Incluye descripciones, herramientas y ejemplos aplicados al caso del aguacate Hass.
 
     .tarjeta.guia-slyder.p-4.p-lg-5.pb-lg-4.mb-4.mb-lg-5.z-2
       SlyderA(tipo="b")
@@ -132,7 +132,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
             p.mb-4.mb-xl-5 <strong>Paso 2.</strong> Inteligencia de <em>marketing</em>
-            p.mb-4.mb-xl-5 Implica la recolección de datos informales del entorno competitivo, a través de observación directa, interacción con clientes o revisión de fuentes externas. Sirve para detectar oportunidades o amenazas. Ejemplo: se identifican precios por kilo del aguacate <em>Hass</em> en EE. UU. y los requisitos de certificación exigidos por el mercado europeo, ajustando la estrategia comercial según estos hallazgos.
+            p.mb-4.mb-xl-5 Implica la recolección de datos informales del entorno competitivo, a través de observación directa, interacción con clientes o revisión de fuentes externas. Sirve para detectar oportunidades o amenazas. Ejemplo: se identifican precios por kilo del aguacate Hass en EE. UU. y los requisitos de certificación exigidos por el mercado europeo, ajustando la estrategia comercial según estos hallazgos.
             p <strong>Herramientas / Fuentes:</strong> ProColombia, Trademap, USDA, ferias comerciales, observación directa de clientes.
           .col-10.col-sm-8.col-lg-6.col-xl-5
             figure
@@ -182,7 +182,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.p-4.px-5.bg-color-terciario-t10.rounded-4.mb-4.mb-lg-0
-        p.my-2 A continuación, se presenta la experiencia de Agroverde Export organizada en secciones desplegables, que permiten conocer de forma detallada cómo esta empresa ha estructurado su Sistema de Información de Mercadeo (SIM). Cada apartado describe los elementos clave del sistema, su aplicación en el contexto exportador del aguacate <em>Hass</em> y los resultados alcanzados, evidenciando el impacto positivo de una gestión estratégica de la información en el proceso de internacionalización. 
+        p.my-2 A continuación, se presenta la experiencia de Agroverde Export organizada en secciones desplegables, que permiten conocer de forma detallada cómo esta empresa ha estructurado su Sistema de Información de Mercadeo (SIM). Cada apartado describe los elementos clave del sistema, su aplicación en el contexto exportador del aguacate Hass y los resultados alcanzados, evidenciando el impacto positivo de una gestión estratégica de la información en el proceso de internacionalización. 
       .col-sm-8.col-lg-5
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema5/20.png', alt='Imagen decorativa')
@@ -194,7 +194,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-7.mb-4.mb-lg-0
               h3 1. Introducción al caso
-              p Agroverde Export, empresa agroindustrial ubicada en Antioquia, ha estructurado un Sistema de Información de Mercadeo (SIM) para apoyar su proceso de exportación de aguacate <em>Hass</em> a mercados como Estados Unidos y Europa. Gracias a esta herramienta, la empresa toma decisiones basadas en datos reales, mejorando su competitividad internacional.
+              p Agroverde Export, empresa agroindustrial ubicada en Antioquia, ha estructurado un Sistema de Información de Mercadeo (SIM) para apoyar su proceso de exportación de aguacate Hass a mercados como Estados Unidos y Europa. Gracias a esta herramienta, la empresa toma decisiones basadas en datos reales, mejorando su competitividad internacional.
             .col-10.col-md-7.col-lg-5
               figur5
                 img(src='@/assets/curso/temas/tema5/21.png', alt='Imagen decorativa')
@@ -206,7 +206,7 @@
             .col-lg-7.text-start
               h3 2. Datos generales
               p.mb-1 <strong>Sector:</strong> agroindustrial. 
-              p.mb-1 <strong>Producto:</strong> aguacate <em>Hass</em>. 
+              p.mb-1 <strong>Producto:</strong> aguacate Hass. 
               p.mb-1 <strong>Ubicación:</strong> Antioquia, Colombia. 
               p.mb-1 <strong>Objetivo:</strong> exportar a Estados Unidos y Europa.
 

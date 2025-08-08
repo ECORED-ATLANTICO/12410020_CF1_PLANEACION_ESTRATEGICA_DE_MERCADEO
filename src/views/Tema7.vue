@@ -175,7 +175,7 @@
       .col-xl-8
         .titulo-sexto.color-acento-botones.mb-4.z-2
           h5 Tabla 6.
-          span Porter Juan Valdez y la expansión del café colombiano.
+          span Juan Valdez y la expansión del café colombiano.
         .tabla-a.color-secundario.z-2
           table
             caption <strong>Nota.</strong> Adaptado de Porter, 1998 y análisis estratégico del sector cafetero colombiano.

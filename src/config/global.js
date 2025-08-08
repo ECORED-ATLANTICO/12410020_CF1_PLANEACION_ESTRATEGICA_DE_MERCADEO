@@ -118,7 +118,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Sistema de información de mercadeo – SIM',
+        titulo: 'Sistema de información de mercadeo - SIM',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -226,7 +226,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/analisis-del-mercado-internacional.pdf',
+        download: 'downloads/CFA1_12410020_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -401,7 +401,7 @@ export default {
     },
     {
       referencia:
-        'Porter, M. E. (2008). <em>Las cinco fuerzas competitivas que dan forma a la estrategia</em>. Harvard Business Review, 86(1), 78–93. Disponible en español: Las fuerzas competitivas de Porter.',
+        'Porter, M. E. (2008). <em>Las cinco fuerzas competitivas que dan forma a la estrategia</em>. Harvard Business Review, 86(1), 78-93. Disponible en español: Las fuerzas competitivas de Porter.',
       link:
         'https://relayn.redesla.la/biblioteca/22.003/T1-C09.pdf?utm_source=chatgpt.com',
     },
@@ -415,10 +415,6 @@ export default {
       referencia:
         'ProColombia. (2025). <em>Publicaciones y estudios de mercado.</em> Recuperado de',
       link: 'https://www.procolombia.co',
-    },
-    {
-      referencia: '',
-      link: '',
     },
   ],
   creditos: [
@@ -434,7 +430,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -444,17 +440,17 @@ export default {
         {
           nombre: 'Mario Morales',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Heydy Cristina González García',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -464,17 +460,17 @@ export default {
         {
           nombre: 'Andrés Felipe Herrera',
           cargo: 'Diseñador <i>web</i>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack junior</i>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -484,22 +480,22 @@ export default {
         {
           nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
