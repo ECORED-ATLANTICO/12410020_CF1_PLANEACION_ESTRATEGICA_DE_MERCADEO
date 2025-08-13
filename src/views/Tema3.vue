@@ -29,8 +29,10 @@
         figure
           img(data-aos="fade-left")(src="@/assets/curso/temas/tema3/2.png" alt="Imagen decorativa")
 
-    .video.mb-5
+    .video.mb-2
       iframe(width="560" height="315" src="https://www.youtube.com/embed/138g3ojttqA" title="Introducción al Mercadeo Internacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+    figcaption <strong>Video:</strong> Introducción al Mercadeo Internacional
+
 
     Separador
 
@@ -45,8 +47,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Objetivos del mercadeo internacional
-        img.d-sm-none(data-aos="fade-up")(src="@/assets/curso/temas/tema3/3-mob.png", alt="La figura representa una síntesis visual de los principales objetivos del mercadeo internacional. Refleja cómo las organizaciones buscan consolidar su presencia internacional. ,Expandir el mercado meta ,Diversificar las fuentes de ingreso ,Aprovechar ventajas competitivas globales ,Buscar nuevos clientes ,Reducir riesgos por concentración geográfica")
-        img.d-none.d-md-block(data-aos="fade-up")(src="@/assets/curso/temas/tema3/3.png", alt="La figura representa una síntesis visual de los principales objetivos del mercadeo internacional. Refleja cómo las organizaciones buscan consolidar su presencia internacional. ,Expandir el mercado meta ,Diversificar las fuentes de ingreso ,Aprovechar ventajas competitivas globales ,Buscar nuevos clientes ,Reducir riesgos por concentración geográfica")
+        img.d-sm-none(data-aos="fade-up")(src="@/assets/curso/temas/tema3/3-mob.png", alt="La figura representa una síntesis visual de los principales objetivos del mercadeo internacional. Refleja cómo las organizaciones buscan consolidar su presencia internacional. Expandir el mercado meta. Diversificar las fuentes de ingreso. Aprovechar ventajas competitivas globales. Buscar nuevos clientes. Reducir riesgos por concentración geográfica")
+        img.d-none.d-md-block(data-aos="fade-up")(src="@/assets/curso/temas/tema3/3.png", alt="La figura representa una síntesis visual de los principales objetivos del mercadeo internacional. Refleja cómo las organizaciones buscan consolidar su presencia internacional. Expandir el mercado meta. Diversificar las fuentes de ingreso. Aprovechar ventajas competitivas globales. Buscar nuevos clientes. Reducir riesgos por concentración geográfica")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5

@@ -23,10 +23,9 @@
         figure
           img(data-aos="fade-in")(src="../assets/curso/intro/2.svg" alt="Imagen decorativa")
 
-    .video.mb-5
+    .video.mb-2
       iframe(width="560" height="315" src="https://www.youtube.com/embed/OFIskkY1D68" title="Análisis estratégico del mercado internacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
-
-
+    figcaption <strong>Video:</strong> Análisis estratégico del mercadeo internacional
 </template>
 
 <script>

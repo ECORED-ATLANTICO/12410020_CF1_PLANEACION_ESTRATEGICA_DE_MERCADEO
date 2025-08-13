@@ -39,7 +39,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/3.png', alt='Imagen decorativa')
       .col-lg-8
-        p.mb-0 Para tomar decisiones estratégicas acertadas, las organizaciones deben analizar los factores que influyen en su desempeño, tanto desde su interior como desde el entorno que las rodea. Estos factores se agrupan en variables internas, que la empresa puede controlar y gestionar directamente, y variables externas, que escapan a su control pero que impactan significativamente su competitividad. Comprender la interacción entre ambos tipos de variables permite anticipar riesgos, identificar oportunidades y fortalecer la capacidad de respuesta en mercados cambiantes.
+        p.mb-0 Para tomar decisiones estratégicas acertadas, las organizaciones deben analizar los factores que influyen en su desempeño, tanto desde su interior como desde el entorno que las rodea. Estos factores se agrupan en variables internas, que la empresa puede controlar y gestionar directamente, y variables externas, que escapan a su control, pero que impactan significativamente su competitividad. Comprender la interacción entre ambos tipos de variables permite anticipar riesgos, identificar oportunidades y fortalecer la capacidad de respuesta en mercados cambiantes.
 
     .row.align-items-center.bg-color-terciario-t5.rounded-3.p-3.shadow-sm.mb-4.mb-lg-5
       .col-lg-1

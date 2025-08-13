@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Sistema de información de mercadeo – SIM
+      h1 Sistema de Información de Mercadeo - SIM
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema5/1.png" alt="Imagen decorativa")
       .col-lg-8
-        p.mb-0 En un entorno empresarial donde la toma de decisiones oportunas y bien fundamentadas marca la diferencia competitiva, contar con información confiable y actualizada se vuelve indispensable. Las empresas necesitan comprender con precisión el comportamiento del mercado, anticiparse a las tendencias y responder con agilidad a las demandas del entorno. Para ello, se apoyan en sistemas estructurados que organizan y transforman los datos en conocimiento útil. En este contexto, surge el Sistema de Información de Mercadeo (SIM) como una herramienta clave para gestionar estratégicamente la información comercial.
+        p.mb-0 En un entorno empresarial donde la toma de decisiones oportunas y bien fundamentadas, marca la diferencia competitiva, contar con información confiable y actualizada se vuelve indispensable. Las empresas necesitan comprender con precisión el comportamiento del mercado, anticiparse a las tendencias y responder con agilidad a las demandas del entorno. Para ello, se apoyan en sistemas estructurados que organizan y transforman los datos en conocimiento útil. En este contexto, surge el Sistema de Información de Mercadeo (SIM) como una herramienta clave para gestionar estratégicamente la información comercial.
 
     Separador
 
@@ -123,7 +123,7 @@
       SlyderA(tipo="b")
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
-            p.mb-4.mb-xl-5 <strong>Paso 1.</strong> Registros internos
+            p.mb-4.mb-xl-5 <strong>Paso 1. Registros internos</strong>
             p.mb-4.mb-xl-5 Reúne información generada dentro de la empresa, como datos de producción, ventas, inventario, logística, costos y clientes. Esta base de datos operativa es clave para analizar el rendimiento interno. Ejemplo: la empresa registra el volumen mensual de aguacate cosechado y los costos de empaque y transporte para planear campañas según la disponibilidad y eficiencia logística.
             p <strong>Herramientas / Fuentes:</strong> ERP, CRM, Excel, Google Sheets.
           .col-10.col-sm-8.col-lg-6.col-xl-5
@@ -131,7 +131,7 @@
               img(src='@/assets/curso/temas/tema5/14.png', alt='Imagen decorativa')
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
-            p.mb-4.mb-xl-5 <strong>Paso 2.</strong> Inteligencia de <em>marketing</em>
+            p.mb-4.mb-xl-5 <strong>Paso 2. Inteligencia de <em>marketing</em></strong>
             p.mb-4.mb-xl-5 Implica la recolección de datos informales del entorno competitivo, a través de observación directa, interacción con clientes o revisión de fuentes externas. Sirve para detectar oportunidades o amenazas. Ejemplo: se identifican precios por kilo del aguacate Hass en EE. UU. y los requisitos de certificación exigidos por el mercado europeo, ajustando la estrategia comercial según estos hallazgos.
             p <strong>Herramientas / Fuentes:</strong> ProColombia, Trademap, USDA, ferias comerciales, observación directa de clientes.
           .col-10.col-sm-8.col-lg-6.col-xl-5
@@ -139,7 +139,7 @@
               img(src='@/assets/curso/temas/tema5/15.png', alt='Imagen decorativa')
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
-            p.mb-4.mb-xl-5 <strong>Paso 3.</strong> Investigación de mercados
+            p.mb-4.mb-xl-5 <strong>Paso 3. Investigación de mercados</strong>
             p.mb-4.mb-xl-5 Consiste en la aplicación de estudios sistemáticos para conocer percepciones, hábitos de consumo, preferencias o canales de compra en mercados específicos. Ejemplo: la empresa realiza un estudio en Alemania donde descubre que los consumidores valoran el empaque biodegradable, lo cual orienta el rediseño de su producto para ese mercado.
             p <strong>Herramientas / Fuentes:</strong> encuestas, <em>focus groups</em>, entrevistas a compradores.
           .col-10.col-sm-8.col-lg-6.col-xl-5
@@ -147,7 +147,7 @@
               img(src='@/assets/curso/temas/tema5/16.png', alt='Imagen decorativa')
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
-            p.mb-4.mb-xl-5 <strong>Paso 4.</strong> Sistema de apoyo a decisiones
+            p.mb-4.mb-xl-5 <strong>Paso 4. Sistema de apoyo a decisiones</strong>
             p.mb-4.mb-xl-5 Procesa la información recolectada para convertirla en reportes, indicadores, alertas o simulaciones que facilitan la toma de decisiones estratégicas. Ejemplo: a través del análisis de datos, se proyecta la demanda trimestral por país destino y se calculan los márgenes de rentabilidad esperados para priorizar los mercados más viables.
             p <strong>Herramientas / Fuentes:</strong> Power BI, Tableau, <em>dashboards</em> personalizados.
           .col-10.col-sm-8.col-lg-6.col-xl-5
@@ -155,7 +155,7 @@
               img(src='@/assets/curso/temas/tema5/17.png', alt='Imagen decorativa')
         .row.align-items-center.justify-content-center
           .col-lg-6.col-xl-5.mb-4.mb-lg-0
-            p.mb-4.mb-xl-5 <strong>Paso 5.</strong> Sistema de distribución de información
+            p.mb-4.mb-xl-5 <strong>Paso 5. Sistema de distribución de información</strong>
             p.mb-4.mb-xl-5 Mecanismo mediante el cual la empresa comparte los datos procesados para apoyar decisiones oportunas y coordinadas. Ejemplo: informes mensuales de exportaciones enviados al equipo comercial y logístico.
             p <strong>Herramientas / Fuentes:</strong> Email, Google Drive, Notion, reuniones de comité exportador.
           .col-10.col-sm-8.col-lg-6.col-xl-5
@@ -170,7 +170,7 @@
         div
           p Sugerencias de uso:
           ul.checklist
-            li Usar esta guía como <em>checklist</em> en reuniones estratégicas.
+            li Usar esta guía como <i style="display: inline;">checklist</i> en reuniones estratégicas.
             li Actualizar la información del SIM de forma mensual o por campaña de exportación.
             li Asegurar que todos los equipos (comercial, producción, logística, calidad) alimenten el sistema.
             li Complementar con alertas sobre cambios en normativas internacionales (fitosanitarias, arancelarias, entre otras).

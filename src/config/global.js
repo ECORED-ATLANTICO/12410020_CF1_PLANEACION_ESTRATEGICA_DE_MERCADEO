@@ -118,7 +118,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Sistema de información de mercadeo - SIM',
+        titulo: 'Sistema de Información de Mercadeo - SIM',
         desarrolloContenidos: true,
         subMenu: [
           {

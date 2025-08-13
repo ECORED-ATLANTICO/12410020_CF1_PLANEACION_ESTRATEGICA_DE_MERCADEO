@@ -81,7 +81,7 @@
               thead
                 tr(style="background-color: #004E7C; color: #FFF")
                   th Fortalezas
-                  th Afectación positiva
+                  th Oportunidades
               tbody
                 tr(style="background-color: #E6FBF8;")
                   td Marca consolidada en Colombia.
@@ -116,11 +116,11 @@
             thead
               tr(style="background-color: #004E7C; color: #FFF")
                 th Factor
-                th(colspan="4") Acuerdos bilaterales pueden facilitar exportaciones.
+                th(colspan="4") Impacto en la estrategia de mercadeo internacional
             tbody
               tr(style="background-color: #E6FBF8;")
                 td Político
-                td(colspan="4") Creciente demanda de productos saludables en EE. UU.
+                td(colspan="4") Acuerdos bilaterales pueden facilitar exportaciones.
               tr
                 td Económico
                 td(colspan="4") Inflación y tasas de cambio afectan los costos y precios.
